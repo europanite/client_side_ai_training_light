@@ -282,7 +282,7 @@ export default function HomeScreen() {
             textDecorationLine: "underline",
           }}
         >
-          Client Side AI Training
+          Client Side AI Training Light
         </Text>
       </TouchableOpacity>
       <View style={{ marginBottom: 16, padding: 12, borderRadius: 12, borderWidth: 1, backgroundColor: "#fff" }}>
