@@ -1,13 +1,14 @@
 # [Client Side AI Training Light](https://github.com/europanite/client_side_ai_training_light "Client Side AI Training Light")
 
-A Client Side Browser-Based AI Training Playground. 
+[![CI](https://github.com/europanite/client_side_ai_training_light/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/ci.yml)
+[![docker](https://github.com/europanite/client_side_ai_training_light/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/docker.yml)
+[![GitHub Pages](https://github.com/europanite/client_side_ai_training_light/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/deploy-pages.yml)
 
 !["web_ui"](./assets/images/web_ui.png)
 
----
+ [ 🚀 PlayGround ](https://europanite.github.io/client_side_ai_training_light/)
 
-##  🚀 PlayGround
- [Client Side AI Training](https://europanite.github.io/client_side_ai_training_light/)
+A Light-Weight KNN-based AI Image Classifier Playground. 
 
 ---
 
