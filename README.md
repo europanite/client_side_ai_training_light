@@ -6,7 +6,7 @@
 
 !["web_ui"](./assets/images/web_ui.png)
 
- [ 🚀 PlayGround ](https://europanite.github.io/client_side_ai_training_light/)
+ [PlayGround](https://europanite.github.io/client_side_ai_training_light/)
 
 A Light-Weight KNN-based AI Image Classifier Playground. 
 
