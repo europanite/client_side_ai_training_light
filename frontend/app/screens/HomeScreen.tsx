@@ -285,6 +285,15 @@ export default function HomeScreen() {
           Client Side AI Training Light
         </Text>
       </TouchableOpacity>
+      <Text
+        style={{
+          fontSize: 14,
+          color: "#334155",
+          marginBottom: 16,
+        }}
+      >
+        A light-weight browser-based AI training playground. You can use MobileNet-V2 as a feature extractor and KNN classifier for instant training, with your own labeled images.
+      </Text>
       <View style={{ marginBottom: 16, padding: 12, borderRadius: 12, borderWidth: 1, backgroundColor: "#fff" }}>
         <SectionTitle>Status</SectionTitle>
         <View style={{ flexDirection: "row", alignItems: "center", gap: 8 }}>
