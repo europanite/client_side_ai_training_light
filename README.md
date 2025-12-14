@@ -1,5 +1,7 @@
 # [Client Side AI Training Light](https://github.com/europanite/client_side_ai_training_light "Client Side AI Training Light")
 
+![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
+
 [![CI](https://github.com/europanite/client_side_ai_training_light/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/ci.yml)
 [![docker](https://github.com/europanite/client_side_ai_training_light/actions/workflows/docker.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/docker.yml)
 [![GitHub Pages](https://github.com/europanite/client_side_ai_training_light/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/client_side_ai_training_light/actions/workflows/deploy-pages.yml)
